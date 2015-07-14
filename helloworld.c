@@ -12,6 +12,6 @@ int main()
     }
     printf("\n");
   }
-  printf("bye\n");
+  printf("bye ! bye !\n");
   return 0;
 }
